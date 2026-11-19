@@ -1,0 +1,7 @@
+.env
+output/
+__pycache__/
+*.log
+referance/
+*.pdf
+samples/uat_*.csv
